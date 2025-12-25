@@ -1,0 +1,32 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+
+# IDE/editor
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.pdb
+*.mdb
+*.VC.db
+*.dotSettings
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity packages we don't publish
+Packages/com.unity.asset-store-tools/
